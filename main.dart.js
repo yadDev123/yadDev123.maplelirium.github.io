@@ -50992,14 +50992,14 @@ A.ko.prototype={
 kD(){var s=0,r=A.a0(t.z)
 var $async$kD=A.a1(function(a,b){if(a===1)return A.Y(b,r)
 while(true)switch(s){case 0:s=5
-return A.a5(A.a0W("https://yaddev123.github.io"),$async$kD)
+return A.a5(A.a0W("https://yaddev123.github.io/#/"),$async$kD)
 case 5:s=b?2:4
 break
 case 2:s=6
-return A.a5(A.Zk("https://yaddev123.github.io",!1),$async$kD)
+return A.a5(A.Zk("https://yaddev123.github.io/#/",!1),$async$kD)
 case 6:s=3
 break
-case 4:throw A.c("Could not launch https://yaddev123.github.io")
+case 4:throw A.c("Could not launch https://yaddev123.github.io/#/")
 case 3:return A.Z(null,r)}})
 return A.a_($async$kD,r)},
 L(a){var s=null
